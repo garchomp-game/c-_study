@@ -1,0 +1,11 @@
+/home/garchomp/csharp_lessons/myAppTest/bin/Debug/netcoreapp2.1/myAppTest.deps.json
+/home/garchomp/csharp_lessons/myAppTest/bin/Debug/netcoreapp2.1/myAppTest.runtimeconfig.json
+/home/garchomp/csharp_lessons/myAppTest/bin/Debug/netcoreapp2.1/myAppTest.runtimeconfig.dev.json
+/home/garchomp/csharp_lessons/myAppTest/bin/Debug/netcoreapp2.1/myAppTest.dll
+/home/garchomp/csharp_lessons/myAppTest/bin/Debug/netcoreapp2.1/myAppTest.pdb
+/home/garchomp/csharp_lessons/myAppTest/obj/Debug/netcoreapp2.1/myAppTest.csprojAssemblyReference.cache
+/home/garchomp/csharp_lessons/myAppTest/obj/Debug/netcoreapp2.1/myAppTest.csproj.CoreCompileInputs.cache
+/home/garchomp/csharp_lessons/myAppTest/obj/Debug/netcoreapp2.1/myAppTest.AssemblyInfoInputs.cache
+/home/garchomp/csharp_lessons/myAppTest/obj/Debug/netcoreapp2.1/myAppTest.AssemblyInfo.cs
+/home/garchomp/csharp_lessons/myAppTest/obj/Debug/netcoreapp2.1/myAppTest.dll
+/home/garchomp/csharp_lessons/myAppTest/obj/Debug/netcoreapp2.1/myAppTest.pdb

@@ -1,0 +1,2 @@
+新しくアプリ作るとき
+dotnet new console -o myAppTest
